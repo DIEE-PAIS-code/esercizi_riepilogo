@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/didaci/Documents/Didattica/esercizio_finale/sort02/array_of_data.h
+
+/Users/didaci/Documents/Didattica/esercizio_finale/sort02/main.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+mergesort.h
+/Users/didaci/Documents/Didattica/esercizio_finale/sort02/mergesort.h
+utils.h
+/Users/didaci/Documents/Didattica/esercizio_finale/sort02/utils.h
+
+/Users/didaci/Documents/Didattica/esercizio_finale/sort02/mergesort.h
+utils.h
+/Users/didaci/Documents/Didattica/esercizio_finale/sort02/utils.h
+
+/Users/didaci/Documents/Didattica/esercizio_finale/sort02/utils.h
+array_of_data.h
+/Users/didaci/Documents/Didattica/esercizio_finale/sort02/array_of_data.h
+

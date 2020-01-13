@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="sort05" targetName="sort05" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a4ff138d-9175-4dee-8d98-87fc4ae5ed09" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1VAuDtdBdm5NlhSaKQF8juEzQXV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunManager">
+    <configuration name="sort05" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="sort05" TARGET_NAME="sort05" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="sort05" RUN_TARGET_NAME="sort05">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4ff138d-9175-4dee-8d98-87fc4ae5ed09" name="Default Changelist" comment="" />
+      <created>1576708104003</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576708104003</updated>
+      <workItem from="1576708105481" duration="940000" />
+      <workItem from="1576709192522" duration="168000" />
+      <workItem from="1576709384373" duration="2090000" />
+      <workItem from="1576711596303" duration="443000" />
+      <workItem from="1576712183748" duration="1948000" />
+      <workItem from="1576714927917" duration="626000" />
+      <workItem from="1576746472179" duration="904000" />
+      <workItem from="1576748734950" duration="610000" />
+      <workItem from="1576764981822" duration="1697000" />
+      <workItem from="1576858141667" duration="763000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576709252485">
+      <screen x="4" y="0" width="1436" height="900" />
+    </state>
+    <state x="458" y="260" key="#com.intellij.fileTypes.FileTypeChooser/4.0.1436.900@4.0.1436.900" timestamp="1576709252485" />
+    <state width="1358" height="217" key="GridCell.Tab.0.bottom" timestamp="1576715554514">
+      <screen x="4" y="0" width="1436" height="900" />
+    </state>
+    <state width="1358" height="217" key="GridCell.Tab.0.bottom/4.0.1436.900@4.0.1436.900" timestamp="1576715554514" />
+    <state width="1358" height="217" key="GridCell.Tab.0.center" timestamp="1576715554513">
+      <screen x="4" y="0" width="1436" height="900" />
+    </state>
+    <state width="1358" height="217" key="GridCell.Tab.0.center/4.0.1436.900@4.0.1436.900" timestamp="1576715554513" />
+    <state width="1358" height="217" key="GridCell.Tab.0.left" timestamp="1576715554512">
+      <screen x="4" y="0" width="1436" height="900" />
+    </state>
+    <state width="1358" height="217" key="GridCell.Tab.0.left/4.0.1436.900@4.0.1436.900" timestamp="1576715554512" />
+    <state width="1358" height="217" key="GridCell.Tab.0.right" timestamp="1576715554513">
+      <screen x="4" y="0" width="1436" height="900" />
+    </state>
+    <state width="1358" height="217" key="GridCell.Tab.0.right/4.0.1436.900@4.0.1436.900" timestamp="1576715554513" />
+    <state x="378" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1576858374912">
+      <screen x="4" y="0" width="1436" height="900" />
+    </state>
+    <state x="378" y="284" key="com.intellij.ide.util.TipDialog/4.0.1436.900@4.0.1436.900" timestamp="1576858374912" />
+    <state x="484" y="90" key="refactoring.ChangeSignatureDialog" timestamp="1576710792933">
+      <screen x="4" y="0" width="1436" height="900" />
+    </state>
+    <state x="484" y="90" key="refactoring.ChangeSignatureDialog/4.0.1436.900@4.0.1436.900" timestamp="1576710792933" />
+  </component>
+</project>

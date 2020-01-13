@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/sort04.dir/compare_strategy.c.o CMakeFiles/sort04.dir/data.c.o CMakeFiles/sort04.dir/main.c.o CMakeFiles/sort04.dir/mergesort.c.o CMakeFiles/sort04.dir/utils.c.o  -o sort04 

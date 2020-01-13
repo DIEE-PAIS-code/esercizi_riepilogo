@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/didaci/Documents/Didattica/esercizio_finale/sort03/compare_strategy.h
+data.h
+/Users/didaci/Documents/Didattica/esercizio_finale/sort03/data.h
+
+/Users/didaci/Documents/Didattica/esercizio_finale/sort03/data.h
+
+/Users/didaci/Documents/Didattica/esercizio_finale/sort03/main.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+mergesort.h
+/Users/didaci/Documents/Didattica/esercizio_finale/sort03/mergesort.h
+utils.h
+/Users/didaci/Documents/Didattica/esercizio_finale/sort03/utils.h
+compare_strategy.h
+/Users/didaci/Documents/Didattica/esercizio_finale/sort03/compare_strategy.h
+
+/Users/didaci/Documents/Didattica/esercizio_finale/sort03/mergesort.h
+utils.h
+/Users/didaci/Documents/Didattica/esercizio_finale/sort03/utils.h
+
+/Users/didaci/Documents/Didattica/esercizio_finale/sort03/utils.h
+data.h
+/Users/didaci/Documents/Didattica/esercizio_finale/sort03/data.h
+
